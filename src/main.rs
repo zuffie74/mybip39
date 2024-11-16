@@ -77,7 +77,7 @@ fn bitcoin_testnet(addr_index: u32) {
 }
 
 fn bitcoin_mainnet() {
-    // This is not used in the real world!
+    // This is not used in the real world! No bitcoin to find here!
     let phrase = "used quarter other stuff south street unit various ivory march copy come capable include goat mixture pumpkin social race defense jealous light fault slow";
     // 10C6849EE3C29354178A245CE84262BAFC4CE24808BC7EC1C498CC98193CA92B19DEC896EF3416DE048B7C068D59EEE76B3CA8277B6C6EAA09B40CB6917D36DF
 
